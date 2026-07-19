@@ -73,7 +73,7 @@ The notebook follows the standard data analysis pipeline:
 - Global Hunger Index changes did not move in lockstep with price shocks, reflecting the GHI's composite,
   lagged construction and the role of domestic resilience factors (governance, social protection, conflict).
 
-See the full [analysis report](Food_Price_Nutrition_Analysis_Report.docx) or the notebook itself for
+See the full [analysis report](Global-Food-Inflation-Analysis-Report.docx) or the notebook itself for
 details, charts, and interpretation.
 
 ## Data Sources
