@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this analysis or code, please cite it as below."
+title: "Global Food Prices, Inflation & Nutrition: An Exploratory Data Analysis"
+authors:
+  - family-names: "Warrier"
+    given-names: "Vipul G"
+date-released: 2026-07-19
+version: "1.0.0"
+license: MIT
+repository-code: "https://github.com/vipulwarrier1-dotcom/Global-Food-Inflation-Analysis"
+type: software
+keywords:
+  - food security
+  - food prices
+  - inflation
+  - nutrition
+  - global hunger index
+  - exploratory data analysis
+references:
+  - type: generic
+    title: "FAO Food Price Index"
+    authors:
+      - name: "Food and Agriculture Organization of the United Nations (FAO)"
+    url: "https://www.fao.org/worldfoodsituation/foodpricesindex/en/"
+  - type: generic
+    title: "Global Hunger Index"
+    authors:
+      - name: "Welthungerhilfe and Concern Worldwide"
+    url: "https://www.globalhungerindex.org/"
